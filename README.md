@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shayaleban
-- 👀 I’m interested in using AI to make hte world a better place
-- 🌱 I’m currently learning businnes and finance
-- 💞️ I’m looking to collaborate on blockchain 
-- 📫 How to reach me shaya.altra@gmail.com
+- 👀 I’m interested in using offensive Cyber security
+
 
 <!---
 Shayaleban/Shayaleban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
