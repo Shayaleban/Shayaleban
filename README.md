@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Shayaleban
-- 👀 I’m interested in using offensive Cyber security
+- Hi, I’m @Shayaleban
 
 
 <!---
